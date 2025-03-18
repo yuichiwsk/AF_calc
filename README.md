@@ -19,6 +19,6 @@ myDf <- N-1
 myNCP <- -sqrt(N)*K05
 qt(0.95, df = myDf, ncp = myNCP) # t95
 ```
-
-test
+Some examples:
+<img src="https://github.com/user-attachments/assets/b7484928-2286-4d2d-8570-d355fc47a7f2" width="500">
 
